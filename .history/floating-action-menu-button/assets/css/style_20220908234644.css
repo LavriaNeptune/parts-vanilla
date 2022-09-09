@@ -1,0 +1,22 @@
+:root {
+  --first-color: hsl(234, 62%, 56%);
+  --icon-color: hsl(234, 12%, 24%);
+  --body-color: hsl(234, 48%, 97%);
+  --container-color: hsl(234, 100%, 99%);
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.floating {
+  height: 100vh;
+  display: grid;
+  
+}
